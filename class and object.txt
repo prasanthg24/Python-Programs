@@ -1,0 +1,16 @@
+class computer:
+  
+def config(self):
+  
+  print("i5 ,16GB RAM ,1tb")
+
+
+com1=computer()
+
+com2=computer()
+
+
+com1.config()
+
+com2.config()
+
